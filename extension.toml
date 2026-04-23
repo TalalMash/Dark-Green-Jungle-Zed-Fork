@@ -1,0 +1,8 @@
+id = "dark-green-jungle"
+name = "Dark Green Jungle"
+schema_version = 1
+version = "0.0.1"
+authors = ["AaBbdev29, TalalMash"]
+description = "a Relax theme  with dark green jungle color and green palette"
+repository = "https://github.com/TalalMash/Dark-Green-Jungle-Zed-Fork"
+themes = ["themes/dark-green-jungle.json"]
