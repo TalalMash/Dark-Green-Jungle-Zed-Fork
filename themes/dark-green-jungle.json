@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "Dark Green Jungle",
-  "author": "AaBbdev29, TalalMash",
+  "author": "AaBbdev29",
   "themes": [
     {
-      "name": "Dark Green Jungle",
+      "name": "Dark Green Jungle Italic",
       "appearance": "dark",
       "style": {
         "accents": [
